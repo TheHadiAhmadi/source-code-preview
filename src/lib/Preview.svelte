@@ -1,5 +1,4 @@
 <script>
-    export let code = ''
     export let markup = ''
     export let script = ''
     export let style = ''
