@@ -11,7 +11,7 @@ import Preview from './lib/Preview.svelte'
 <h1>Buttons</h1>
 Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptatum nostrum tempore dolore quos. Sequi adipisci voluptatem officia laudantium fugiat ratione, et, ad esse consequuntur dicta repudiandae voluptas, quibusdam mollitia rerum!
 
-<h2>Colors</h2>
+<h2>Sizes</h2>
 Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quam beatae ex nobis, veritatis ipsam quia voluptas totam dolores dicta deserunt vel adipisci delectus qui repellendus ratione nemo ad excepturi aut.
 <Preview src="./docs/ButtonSizes.svelte">
   <ButtonSizes/>
